@@ -14,4 +14,8 @@ The process by which we get a computer to parse and extract human language, usua
 </details>
 
 > **Text categorization/classification**: we take unstructured data and classify it in some way. Can be used for spam detection
-\---
+
+---
+## Natural Language Understanding (NLU)
+\ Computers are trained to take unstructured data to structered
+
