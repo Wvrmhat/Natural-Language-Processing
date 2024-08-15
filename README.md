@@ -17,5 +17,12 @@ The process by which we get a computer to parse and extract human language, usua
 
 ---
 ## Natural Language Understanding (NLU)
-\ Computers are trained to take unstructured data to structered
+Computers are trained to take unstructured data to structered
+
+---
+
+## Natural Language Generation (NLG)
+Structed data is made into unstructured also through a NLP
+
+
 
