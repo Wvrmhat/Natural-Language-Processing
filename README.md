@@ -5,7 +5,7 @@ The process by which we get a computer to parse and extract human language, usua
 <Details>
 	<summary>Categories of NLP </summary>
 	
-	+ Named Entity Recognition (NER)
+	- Named Entity Recognition (NER)
 	+ Part-of-Speech (POS)
 	+ Syntactic Parsing
 	+ Text Categorization
